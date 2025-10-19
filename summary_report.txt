@@ -1,0 +1,27 @@
+===== QUIZ SUMMARY REPORT =====
+Total Users: 3
+Total Attempts: 3
+Average Score: 4.00
+Best Performer: Aakaash (Avg: 2.00)
+Least Performer: rith ik (Avg: 1.00)
+Overall Accuracy: 44.44%
+
+===== INDIVIDUAL REPORTS =====
+User: rith ik
+  Attempts: 1
+  Scores: [1]
+  Best Score: 1
+  Average: 1.00
+---------------------------------
+User: rithvik
+  Attempts: 1
+  Scores: [1]
+  Best Score: 1
+  Average: 1.00
+---------------------------------
+User: Aakaash
+  Attempts: 1
+  Scores: [2]
+  Best Score: 2
+  Average: 2.00
+---------------------------------

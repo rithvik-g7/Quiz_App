@@ -1,0 +1,3 @@
+What is the capital of India?|Delhi,Mumbai,Chennai,Kolkata|Delhi
+Which planet is known as the Red Planet?|Earth,Venus,Mars,Jupiter|Mars
+Who is the father of Computers?|Charles Babbage,Alan Turing,Tim Berners-Lee,Elon Musk|Charles Babbage
